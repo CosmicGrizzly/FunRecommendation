@@ -1,0 +1,7 @@
+C:\Users\Inari\Desktop\Visual Work\Fun Recommendations 2\Fun Recommendations 2\obj\Debug\Fun Recommendations 2.csprojAssemblyReference.cache
+C:\Users\Inari\Desktop\Visual Work\Fun Recommendations 2\Fun Recommendations 2\obj\Debug\Fun Recommendations 2.csproj.CoreCompileInputs.cache
+C:\Users\Inari\Desktop\Visual Work\Fun Recommendations 2\Fun Recommendations 2\bin\Debug\Fun Recommendations 2.exe.config
+C:\Users\Inari\Desktop\Visual Work\Fun Recommendations 2\Fun Recommendations 2\bin\Debug\Fun Recommendations 2.exe
+C:\Users\Inari\Desktop\Visual Work\Fun Recommendations 2\Fun Recommendations 2\bin\Debug\Fun Recommendations 2.pdb
+C:\Users\Inari\Desktop\Visual Work\Fun Recommendations 2\Fun Recommendations 2\obj\Debug\Fun Recommendations 2.exe
+C:\Users\Inari\Desktop\Visual Work\Fun Recommendations 2\Fun Recommendations 2\obj\Debug\Fun Recommendations 2.pdb
